@@ -8,7 +8,7 @@ let complete3 = new Set;
 let firstOne = Math.round((Math.random()) * 99);
 busy (firstOne);
 tdshes[firstOne].classList.add('gray');
-
+/*there is a great commentar*/
 while (complete.size < 3){
   let secondOne = Math.round((Math.random()) * 99);
   if (!one.includes(secondOne)){
